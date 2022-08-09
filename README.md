@@ -1,5 +1,5 @@
-[![kNNmdD.png](https://user-images.githubusercontent.com/96705270/169666817-c7a024c1-3695-4f37-82d8-afbdccb20304.png)](https://user-images.githubusercontent.com/96705270/169666817-c7a024c1-3695-4f37-82d8-afbdccb20304.png)
-
+[//]: #[![kNNmdD.png](https://user-images.githubusercontent.com/96705270/169666817-c7a024c1-3695-4f37-82d8-afbdccb20304.png)](https://user-images.githubusercontent.com/96705270/169666817-c7a024c1-3695-4f37-82d8-afbdccb20304.png)
+<img align="center" src="https://user-images.githubusercontent.com/96705270/169666817-c7a024c1-3695-4f37-82d8-afbdccb20304.png" width="1000"/>
 
 For the best visual experience, go here: [Rabbit Website](https://rabbit-jam.web.app/)
 
