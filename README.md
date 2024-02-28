@@ -9,14 +9,14 @@ With a seemingly endless field of grass, and sometimes carrots around you, eat y
 
 Rabbit includes a score system in place for you to battle your friends to see who can get the highest score as well. Who is the best rabbit around?
 
-This game was created by Mark Siminski as part of a game jam for Godot Engine.
+This game was created by [Mark Siminski](https://github.com/Amrith369) as part of a game jam for Godot Engine.
 
 ## CONTROLS
 
 WASD or ARROW KEYS to move
 
 
-Most of the assets for this game are created by Mark Siminski. The music is open source, with credit being listed below! :)
+Most of the assets for this game are created by [Mark Siminski](https://github.com/Amrith369). The music is open source, with credit being listed below! :)
 
 - Windswept by Kevin MacLeod
 
